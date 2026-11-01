@@ -18,7 +18,6 @@ Aplikacija je interaktivni števec za naprave Android, ki uporabniku omogoča sp
 
 ### 3. Ponastavitev števca (Gumb "Zero")
 * Ob pritisku na gumb **Zero** se vrednost števca takoj vrne na **0**.
-* Gumb **Zero** po ponastavitvi znova spremeni svojo barvo nazaj v **sivo**, kar ponovno označi neaktivno stanje.
 
 ### 4. Prikaz obvestila (Gumb "Toast")
 * Ob pritisku na gumb **Toast** se na dnu zaslona prikaže kratko skočno obvestilo (Toast sporočilo) s trenutno vrednostjo števca ali pozdravnim besedilom.
