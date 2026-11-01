@@ -24,3 +24,5 @@ Aplikacija je interaktivni števec za naprave Android, ki uporabniku omogoča sp
 
 ### 5. Prilagajanje zaslonu in orientaciji
 * **Ležeči način (Landscape) in tablice:** Ko uporabnik obrne telefon v ležeči položaj ali aplikacijo odpre na večjem zaslonu (tablici), se postavitev gumbov in rumenega polja samodejno prilagodi dimenzijam zaslona, tako da so vsi trije gumbi in števec vedno jasno vidni in enostavno dostopni.
+* <img width="250" alt="image" src="https://github.com/user-attachments/assets/5b3cdc63-9d90-4acc-8278-322863ab0524" />
+
